@@ -1,0 +1,126 @@
+[
+  {
+    "id": "karthick-1",
+    "type": "customer",
+    "name": "Karthick",
+    "avatar": "K",
+    "avatarColor": "#D9E7F7",
+    "jobName": "Bathroom Plumbing",
+    "jobTime": "Today 2:00 PM",
+    "jobId": "PFX-84213",
+    "status": "Confirmed",
+    "unreadCount": 2,
+    "lastMessage": "Ok, I will be at home. Gate code is 2214.",
+    "lastMessageTime": "12:41 PM",
+    "messages": [
+      {
+        "id": 1,
+        "sender": "customer",
+        "text": "Hi, the leak is getting worse since morning.",
+        "time": "12:28 PM"
+      },
+      {
+        "id": 2,
+        "sender": "support",
+        "text": "Thanks for the photo. I will be there by 2:00 PM as scheduled.",
+        "time": "12:34 PM"
+      },
+      {
+        "id": 3,
+        "sender": "support",
+        "text": "Please keep the area under the basin clear so I can work.",
+        "time": "12:35 PM"
+      },
+      {
+        "id": 4,
+        "sender": "customer",
+        "text": "Ok, I will be at home. Gate code is 2214.",
+        "time": "12:41 PM"
+      }
+    ]
+  },
+  {
+    "id": "support-1",
+    "type": "support",
+    "name": "ProFix Support",
+    "avatar": "P",
+    "avatarColor": "#F7D7C5",
+    "jobName": "Ticket #4482",
+    "jobTime": "Payment query",
+    "jobId": "PFX-991",
+    "status": "Open",
+    "unreadCount": 0,
+    "lastMessage": "Your payout has been re-initiated to HDFC",
+    "lastMessageTime": "11:05 AM",
+    "messages": [
+      {
+        "id": 1,
+        "sender": "support",
+        "text": "Hi, we have started the payout review for your last booking.",
+        "time": "10:58 AM"
+      },
+      {
+        "id": 2,
+        "sender": "customer",
+        "text": "I had not received the amount yet.",
+        "time": "11:01 AM"
+      },
+      {
+        "id": 3,
+        "sender": "support",
+        "text": "Your payout has been re-initiated to HDFC and should reflect soon.",
+        "time": "11:05 AM"
+      }
+    ]
+  },
+  {
+    "id": "meena-1",
+    "type": "customer",
+    "name": "Meena",
+    "avatar": "M",
+    "avatarColor": "#E5E7EB",
+    "jobName": "Fan Installation",
+    "jobTime": "Today 4:30 PM",
+    "jobId": "PFX-84288",
+    "status": "Confirmed",
+    "unreadCount": 0,
+    "lastMessage": "Fan is already bought, please bring the driller.",
+    "lastMessageTime": "Yesterday",
+    "messages": [
+      {
+        "id": 1,
+        "sender": "customer",
+        "text": "Fan is already bought, please bring the driller.",
+        "time": "Yesterday"
+      },
+      {
+        "id": 2,
+        "sender": "support",
+        "text": "Sure, I will bring the required tools and arrive on time.",
+        "time": "Yesterday"
+      }
+    ]
+  },
+  {
+    "id": "divya-1",
+    "type": "customer",
+    "name": "Divya",
+    "avatar": "D",
+    "avatarColor": "#F0F0F0",
+    "jobName": "Tap Repair",
+    "jobTime": "Today 10:00 AM",
+    "jobId": "PFX-84215",
+    "status": "Completed",
+    "unreadCount": 0,
+    "lastMessage": "Thank you, all good now!",
+    "lastMessageTime": "Yesterday",
+    "messages": [
+      {
+        "id": 1,
+        "sender": "customer",
+        "text": "Thank you, all good now!",
+        "time": "Yesterday"
+      }
+    ]
+  }
+]

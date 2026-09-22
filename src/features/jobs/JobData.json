@@ -1,0 +1,102 @@
+[
+  {
+    "jobName": "Bathroom Plumbing",
+    "status": "Completed",
+    "customer": {
+      "name": "Jeya praksh",
+      "address": "T nagar",
+      "phone": "90846",
+      "rating": "4.5"
+    },
+    "Date&time": "Today, 10:00 AM",
+    "EstimatedDuration": "45 min",
+    "jobValueAfterCommision": "₹380",
+    "jobId": "PFX-845",
+    "location": "T nagar 3.2km",
+    "emtimedEarnings": "₹400",
+    "customerReport": "The plumber was very professional and completed the work on time. The bathroom is now functioning perfectly. Highly recommend their services.",
+    "image": [
+      "https://images.unsplash.com/photo-1581091870620-3c7e1f5b8f4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGx1bWJpbmclMjBzZXJ2aWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "jobName": "Tap Repair",
+    "status": "Completed",
+    "customer": {
+      "name": "Karthik",
+      "address": "Kilpauk",
+      "phone": "97654",
+      "rating": "4.8"
+    },
+    "Date&time": "Today, 10:00 AM",
+    "EstimatedDuration": "45 min",
+    "jobValueAfterCommision": "₹349",
+    "jobId": "PFX-902",
+    "location": "Kilpauk",
+    "emtimedEarnings": "₹390",
+    "customerReport": "Quick and clean tap replacement. The sink is working perfectly now.",
+    "image": [
+      "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "jobName": "Bathroom Plumbing",
+    "status": "Confirmed",
+    "customer": {
+      "name": "Anna Nagar",
+      "address": "Anna Nagar",
+      "phone": "99824",
+      "rating": "4.9"
+    },
+    "Date&time": "Today, 2:00 PM",
+    "EstimatedDuration": "1-2 hours",
+    "jobValueAfterCommision": "₹499",
+    "jobId": "PFX-116",
+    "location": "Anna Nagar",
+    "emtimedEarnings": "₹560",
+    "customerReport": "Customer requested a full bathroom pipe and fixture inspection before evening use.",
+    "image": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "jobName": "Fan Installation",
+    "status": "Confirmed",
+    "customer": {
+      "name": "Aminjikarai",
+      "address": "Aminjikarai",
+      "phone": "98612",
+      "rating": "4.7"
+    },
+    "Date&time": "Today, 4:30 PM",
+    "EstimatedDuration": "1 hour",
+    "jobValueAfterCommision": "₹599",
+    "jobId": "PFX-330",
+    "location": "Aminjikarai",
+    "emtimedEarnings": "₹650",
+    "customerReport": "Installed a ceiling fan and checked the wiring for safety and balance.",
+    "image": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "jobName": "Water Heater Service",
+    "status": "Pending",
+    "customer": {
+      "name": "Velachery",
+      "address": "Velachery",
+      "phone": "93411",
+      "rating": "4.6"
+    },
+    "Date&time": "Today, 6:15 PM",
+    "EstimatedDuration": "1 hour",
+    "jobValueAfterCommision": "₹650",
+    "jobId": "PFX-410",
+    "location": "Velachery",
+    "emtimedEarnings": "₹710",
+    "customerReport": "Water heater inspection and pressure check before the weekend rush.",
+    "image": [
+      "https://images.unsplash.com/photo-1621905251918-48416bd8575a?auto=format&fit=crop&w=800&q=80"
+    ]
+  }
+]
